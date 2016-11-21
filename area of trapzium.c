@@ -17,9 +17,6 @@
         scanf("%d",&b);
         printf("enter the value of h:\n");
         scanf("%d",&h);
-
-
-
         area=0.5*(a+b)*h;
         printf("area of trapezium is %f", area);
         return(0);
